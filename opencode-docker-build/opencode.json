@@ -37,7 +37,7 @@
     "openrouter": {
       "npm": "@openrouter/ai-sdk-provider",
       "options": {
-        "apiKey": "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",
+        "apiKey": "{env:OPENROUTER_API_KEY}",
         "baseURL": "http://127.0.0.1:9338/api/v1"
       },
       "models": {
