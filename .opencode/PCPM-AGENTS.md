@@ -2,7 +2,7 @@
 
 This project uses the global-brain PCPM system for persistent memory across sessions.
 
-**Project ID:** Infra-SIN-Dev-Setup
+**Project ID:** dev-setup
 **Current Goal:** Continue development
 
 ## Rules for All Agents
